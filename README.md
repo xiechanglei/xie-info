@@ -20,7 +20,7 @@
 - **[实验性]** [limade](https://github.com/xiechanglei/limade)  个人前端工具库，整理了一些前端开发中常用的工具函数，方便快速开发一些小型项目，后续会持续更新
 - **[已完成]** [xie-bookmark](https://github.com/xiechanglei/xie-bookmark) 一个基于nodejs的全局命令工具，用于在控制台管理个人收藏的网站以及存储一些有用的信息
 - **[暂停维护]** [create-qingyan](https://github.com/xiechanglei/create-qingyan) 规划的一个快速创建本地离线环境的的学习网站
-- **[规划中]** [xie-note] (https://github.com/xiechanglei/xie-note) 一个用于记录和管理个人笔记的工具
+- **[规划中]** [xie-note](https://github.com/xiechanglei/xie-note) 一个用于记录和管理个人笔记的工具
 - **[规划中]** [create-xie](https://github.com/xiechanglei/create-xie) 一个用于快速项目模板的工具，基本已经开发的差不多了，目前存储在其他的仓库中，后续需要整合起来
 - **[规划中]** [xie-react-tools](https://github.com/xiechanglei/xie-react-tools) 一个用于React开发的工具库, 主要是一些常用的组件和工具函数，方便快速开发React项目
 - **[规划中]** [xie-ui](https://github.com/xiechanglei/xie-ui) 一个用于构建用户界面的工具库，主要包含一些常用的UI组件和样式，方便快速开发Web应用
