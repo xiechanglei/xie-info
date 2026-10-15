@@ -25,7 +25,7 @@
 - **[规划中]** [xie-react-tools](https://github.com/xiechanglei/xie-react-tools) 一个用于React开发的工具库, 主要是一些常用的组件和工具函数，方便快速开发React项目
 - **[规划中]** [xie-ui](https://github.com/xiechanglei/xie-ui) 一个用于构建用户界面的工具库，主要包含一些常用的UI组件和样式，方便快速开发Web应用
 - **[规划中]** [xie-media-server](https://github.com/xiechanglei/xie-media-server) 一个快速搭建个人媒体服务器的工具，主要用于存储和管理个人的音视频资源，方便随时访问和播放
-- **[规划中]** [xie-auth](https://github.com/xiechanglei/xie-auth) 一个用于用户简单认证和授权的工具库，方便开发一些需要认证的Web应用，提供一个简单的登录页面以及用户管理功能，提供封装之后的api开发接口，方便快速集成到项目中
+- **[进行中]** [xie-auth](https://github.com/xiechanglei/xie-auth) 一个用于用户简单认证和授权的工具库，方便开发一些需要认证的Web应用，提供一个简单的登录页面以及用户管理功能，提供封装之后的api开发接口，方便快速集成到项目中
 
 ## 📬 联系方式
 
